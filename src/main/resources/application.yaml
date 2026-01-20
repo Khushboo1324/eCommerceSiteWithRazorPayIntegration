@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: e-com
+server:
+  port: 8080
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ecom
+razorpay:
+  key: ${RAZORPAY_KEY}
+  secret: ${RAZORPAY_SECRET}
