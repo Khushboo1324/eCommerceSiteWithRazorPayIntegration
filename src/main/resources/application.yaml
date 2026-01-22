@@ -7,5 +7,5 @@ server:
     mongodb:
       uri: mongodb://localhost:27017/ecom
 razorpay:
-  key: ${RAZORPAY_KEY}
-  secret: ${RAZORPAY_SECRET}
+  key: rzp_test_S6559zCerrUAAq
+  secret:  aB7AAQ1FnBqdKwJe346XzrO5
